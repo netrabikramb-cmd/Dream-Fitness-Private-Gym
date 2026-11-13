@@ -10,3 +10,6 @@ desktop.ini
 # Editor directories
 .vscode/
 .idea/
+
+push.bat
+server.ps1
